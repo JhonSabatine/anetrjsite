@@ -99,7 +99,7 @@ const Header = () => {
                 Contato
               </a>
               <Button variant="gradient" size="lg" className="mt-4">
-                Assine Agora
+                <a href="/cadastro">Assine Agora</a>
               </Button>
             </nav>
           </div>
